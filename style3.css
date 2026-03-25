@@ -1,0 +1,28 @@
+
+#a {
+font-family: Arial;
+color:red
+
+}
+
+
+#b {
+font-family:Times;
+font-size: 22px;
+color:rgb(0, 255, 51)
+}
+
+#c {
+font-family:"comic sans-serif";
+font-size: 20px;
+color:rgb(17, 0, 255);
+font-style: italic;
+}
+
+
+#d {
+color:#c4d231;
+font-size:14px; 
+font-weight:500;
+font-family: Verdana;
+}

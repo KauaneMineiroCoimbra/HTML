@@ -1,0 +1,37 @@
+.fundo-azul {
+  background-color: lightblue;
+}
+
+.paragrafo-verde {
+  background-color: lightgreen;
+}
+
+.imagem-repetida-fixa {
+  background-image: url('img.jpg');
+  background-repeat: repeat;
+  background-attachment: fixed;
+}
+
+.repetir-vertical {
+  background-image: url('https://images.pexels.com/photos/992734/pexels-photo-992734.jpeg');
+  background-repeat: repeat-y;
+}
+
+.nao-repetir {
+  background-image: url('https://images.pexels.com/photos/992734/pexels-photo-992734.jpeg');
+  background-repeat: no-repeat;
+}
+
+.centralizada {
+  background-image: url('https://images.pexels.com/photos/992734/pexels-photo-992734.jpeg');
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.completo {
+  background: yellow url('https://images.pexels.com/photos/992734/pexels-photo-992734.jpeg') no-repeat center fixed;
+}
+div {
+  height: 200px;
+  margin: 10px 0;
+}
